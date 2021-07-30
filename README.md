@@ -1,6 +1,6 @@
 # Hi,I'm Alfan Adi Chandra :computer:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Web+Developer;Game+Developer)](https://git.io/typing-svg)
+![](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Web+Developer;Game+Developer)
 
 ### Connect With me
 
