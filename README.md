@@ -1,6 +1,6 @@
 # Hi,I'm Alfan Adi Chandra :computer:
 
-![](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Web+Developer;Game+Developer)
+![](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Web+Developer;FullStack+Developer;BackEnd+Developer)
 
 ### Connect With me
 
