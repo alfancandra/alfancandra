@@ -3,7 +3,7 @@
 ![](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Web+Developer;FullStack+Developer;BackEnd+Developer)
 
 
-![](https://komarev.com/ghpvc/?username=alfancandra)
+![](https://rushter.com/counter.svg)
 
 
 ### Connect With me
