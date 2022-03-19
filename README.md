@@ -2,6 +2,9 @@
 
 ![](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Web+Developer;FullStack+Developer;BackEnd+Developer)
 
+![](https://komarev.com/ghpvc/?username=alfancandra&color=green)
+
+
 ### Connect With me
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/candra.alfan) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfancandra) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/ShippuUshi) [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alfan.ac)
